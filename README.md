@@ -1,5 +1,5 @@
 
-# Docker Compose and WordPress
+# Docker Compose and WordPress JC
 
 [![Build Status](https://travis-ci.org/urre/wordpress-nginx-docker-compose.svg?branch=master)](https://travis-ci.org/urre/wordpress-nginx-docker-compose)
 
